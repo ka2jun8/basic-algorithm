@@ -1,0 +1,18 @@
+{
+  "name": "basic-algorithm",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha dist/algorithms/*.js"
+  },
+  "devDependencies": {
+    "@types/underscore": "^1.8.3",
+    "power-assert": "^1.4.4",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
